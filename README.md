@@ -41,6 +41,7 @@ WWDCでは、Apple関連製品の技術説明の他、CEOらによる基調講�
 <!--見出しに折り畳みを使うとページ内リンクが働くなる-->
 これまで専用の画面に表示されていたwidgetsは、ホーム画面に統合され、アプリアイコンと並べて閲覧できるようになります。
 <details><summary>widgets</summary>カレンダー、時計等の簡易プログラム</details>
+
 ![widgets](https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-06/2755eac0-b4af-11ea-aade-19eb8fa0e7e8)
 
 ---
