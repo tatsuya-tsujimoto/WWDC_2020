@@ -15,9 +15,9 @@ WWDCでは、Apple関連製品の技術説明の他、CEOらによる基調講�
 |--|--|
 |[AppLibrary](#AppLibrary)|[Siri](#Siri)|
 |[widgets](#widgets)|[Messages](#Messages)|
-|[Picture in picture](#Pictureinpicture)|[Maps](#Maps)|
+|[Picture in picture](#Picture-in-picture)|[Maps](#Maps)|
 ||[CarPlay](#CarPlay)|
-||[App Clips](#AppClips)|
+||[App Clips](#App-Clips)|
 
 ----
 
