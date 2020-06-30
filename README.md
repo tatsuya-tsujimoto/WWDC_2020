@@ -92,8 +92,9 @@ iPadで先に実装されていた機能。FaceTime使用中に別アプリを�
 機能に関しては、AppLibrary、widgets、Picture in pictureは恩恵に与れそう。
 
 ---
-参考サイト
+参考サイト  
 [Engadget](https://japanese.engadget.com/ios14-applibrary-174200619.html)
+
 >[P in Pの件](https://japanese.engadget.com/youtube-nosubsc-024541631.html)
 
 [gizmodo](https://www.gizmodo.jp/2020/06/wwdc20-realtime.html)
